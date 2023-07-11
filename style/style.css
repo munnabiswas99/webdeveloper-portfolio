@@ -132,3 +132,29 @@ nav a {
   font-size: 30px;
   font-weight: 700;
 }
+.resume-container {
+  display: flex;
+  gap: 50px;
+  padding: 15px;
+  margin-left: 70px;
+}
+.resume-item-title {
+  color: #474747;
+  font-size: 25px;
+}
+.resume-item-institute {
+  display: flex;
+  width: 511px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color:#757575;
+  font-size: 16px;
+}
+.resume-item-description {
+  color: #757575;
+  font-size: 16px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
